@@ -1,1 +1,2 @@
 # kuramoto
+This library provides a Python implementation of the Kuramoto model, a mathematical model for synchronization in coupled oscillator networks. As of now this project simulates the behavior of a Kuramoto oscillator network and generates a plot of the resulting phases. The relationship between synchronization and computable information density, a measure of the amount of information that can be processed by a computational system, will be explored.
